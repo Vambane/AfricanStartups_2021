@@ -39,5 +39,10 @@ The following dependencies are required to run the analysis code:
 - matplotlib
 - seaborn
 
+## Acknowledgments
+
+We would like to express our gratitude to Disrupt Africa for providing the African Startups dataset and making it available for analysis. The dataset can be accessed at [Disrupt Africa](https://disrupt-africa.com/startups-data/). Any additional acknowledgments can be added here.
+
+Happy analyzing!
 
 
